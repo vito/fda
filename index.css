@@ -1,0 +1,15 @@
+body {
+  font-family: monospace;
+  font-size: 12px;
+  line-height: 1.4;
+  margin: 0;
+}
+
+pre {
+  font-family: monospace;
+  word-wrap: break-word;
+}
+
+.session {
+  padding: 1em;
+}
